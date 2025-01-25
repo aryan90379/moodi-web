@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ipython": "^0.0.1",
+    "jupyter": "^0.0.0"
+  }
+}
